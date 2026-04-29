@@ -156,7 +156,8 @@ img { max-width: 100%; display: block; }
   font-size: 0.95rem;
   color: var(--muted);
   line-height: 1.85;
-  margin-bottom: 52px;
+  margin: 0 auto 52px;
+  text-align: center;
 }
 
 .hero-cta {
